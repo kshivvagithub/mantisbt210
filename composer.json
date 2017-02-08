@@ -15,5 +15,8 @@
     },
     "autoload": {
         "classmap": ["admin/install.php"]
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
     }
 }
